@@ -1,0 +1,9 @@
+[submodule "usm-java-backend"]
+	path = usm-java-backend
+	url = https://github.com/javierlopez-jls/usm-java-backend.git
+[submodule "usm-ktx-backend"]
+	path = usm-ktx-backend
+	url = https://github.com/javierlopez-jls/usm-ktx-backend.git
+[submodule "usm-go-backend"]
+	path = usm-go-backend
+	url = https://github.com/javierlopez-jls/usm-go-backend.git
